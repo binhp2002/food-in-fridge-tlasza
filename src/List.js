@@ -24,8 +24,8 @@ const foodList = [
       timeDays: 3
     },
     {
-      name: "milk",
-      timeDays: 7
+      name: "whole milk",
+      timeDays: 5
     },
     {
       name: "avocados",

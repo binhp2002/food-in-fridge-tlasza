@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  background-color: #66CCFF;
+  color: #333;
+  font-family: sans-serif;
+  background: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-fridges-2019-1569421093.png?crop=0.730xw:0.599xh;0.134xw,0.0989xh&resize=1200:*);
+  background-repeat:no-repeat;
+  background-size: 100% 300%;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}

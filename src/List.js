@@ -27,8 +27,9 @@ const foodList = [
       name: "milk",
       timeDays: 7
     },
-    {name: "avocados",
-    timeDays: 3
+    {
+      name: "avocados",
+      timeDays: 3
     }
   ]
 
